@@ -1,2 +1,3 @@
 # CodeForces-Solutions
-Solution Files are named on the basis of their problem code, for ex- for 551A.cpp search on google 551 A codeforces to get the above problem statement of the desired problem.
+These Are the solutions of the various CF problems solved by me, My CF handle is ayush_73
+
